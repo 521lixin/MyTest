@@ -1,0 +1,1 @@
+doucument.write("原来今天是六一儿童节")
